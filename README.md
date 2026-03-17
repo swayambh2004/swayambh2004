@@ -2,7 +2,7 @@
 
 <!--
 **swayambh2004/swayambh2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-## Hi there 👋
+
 
 # 💫 About Me:
 I am a passionate Master of Computer Applications (MCA) student dedicated to building scalable software solutions and exploring the depths of cybersecurity. My journey involves bridging the gap between robust application development and secure coding practices.<br><br>🔭 I’m currently working on a Pharmacy Management System using Java and MySQL.<br><br>💻 My previous projects include a full-stack Flight Booking System (PHP/Bootstrap).<br><br>⛓️ Exploring the world of Blockchain and Ethereum smart contracts.<br><br>⚽ When I'm not coding, you'll find me on the football pitch or listening to music.
