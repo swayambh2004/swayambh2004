@@ -15,7 +15,7 @@ I am a passionate Master of Computer Applications (MCA) student dedicated to bui
 ![](https://nirzak-streak-stats.vercel.app/?user=swayambh2004&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=swayambh2004&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
 ---
